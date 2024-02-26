@@ -1,6 +1,6 @@
 This repository contains a series of Python projects developed as part of a learning journey.
 
-Madlibs
+1.Madlibs
 
 2.Guess the Number (computer)
 
