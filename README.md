@@ -1,6 +1,6 @@
 This repository contains a series of Python projects developed as part of a learning journey.
 
-1.Madlibs
+Madlibs
 
 2.Guess the Number (computer)
 
@@ -13,8 +13,13 @@ This repository contains a series of Python projects developed as part of a lear
 6.Tic-Tac-Toe
 
 7.Tic-Tac-Toe (AI)
+
 8.Binary Search
+
 9.Minesweeper
+
 10.Sudoku Solver
+
 11.Photo Manipulation in Python
+
 12.Markov Chain Text Composer# Python-mini-projects
